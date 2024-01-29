@@ -1,1 +1,2 @@
-# vocalss.com
+# vocals
+.com
