@@ -1,2 +1,1 @@
-# vocals
-.com
+# vocals.com
