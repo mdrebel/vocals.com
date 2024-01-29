@@ -140,3 +140,32 @@ header{
 .Get-started{
     margin-top: 20px;
 }
+/* songs-header*/
+
+.songs-header{
+    text-align: center;
+    margin-block: 30px;
+    color: var(--primary-text-color);
+}
+.songs{
+    width: 50%;
+    height: 200px;
+    display: flex;
+    gap: 5px;
+}
+.songs img{
+    width: 10%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 10px;
+    border: 2px solid white;
+    transition: all ease-out 0.5s;
+    cursor: pointer;
+}
+.songs img:hover{
+    width: 100%;
+    height: 180%;
+}
+h2{
+    color: black;
+}
